@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/2903339.jpg)](https://rishavchanda.io)
+<!-- [![MasterHead](https://wallpaperaccess.com/full/2903339.jpg)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👋, I'm Zobair Najdaoui</h1>
 <h3 align="center">A passionate developer from Maroc</h3>
