@@ -14,13 +14,13 @@
 
 - 💬 Ready to chat about **JavaScript sorcery and Pythonic adventures**
 
-- 📫 Reach out to me at **zobirnajdaoui@gmail.com**
+- 📫 Reach out to me at **interplorez@gmail.com**
 
 - ⚡ Fun fact: **I thrive on collaborative coding quests**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/z-najdaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="interpLorez" height="30" width="40" /></a>
+<a href="https://codepen.io/interpLorez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="interpLorez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
