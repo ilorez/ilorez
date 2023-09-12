@@ -2,18 +2,17 @@
 <h3 align="center">🚀 Passionate Developer | 🌍 Proudly from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 <div align="left">
+- 💻 Currently orchestrating pixels for **Awesome React Apps**
 
-- 🔭 Currently orchestrating pixels for \***Awesome React Apps\***
+- 📚 Learning the art of **Node.js and Git advanced with MERN stack**
 
-- 🌱 Learning the art of \***React wizardry with TypeScript and Next.js\***
+- 🤝 I’m looking to collaborate on **React wizardry with TypeScript and Next.js** and **MERN stack projects**
 
-- 👯 I’m looking to collaborate on **_React wizardry with TypeScript and Next.js_**
+- 💬 Ask me about **JavaScript, Python, React, Node.js, Tailwind CSS...**
 
-- 💬 Ask me about **JS,Python,react,nodejs,tailwind...**
+- 📧 Reach out to me at **isilorez@gmail.com**
 
-- 📫 Reach out to me at **isilorez@gmail.com**
-
-- ⚡ Fun fact \***I thrive on collaborative coding quests\***
+- 🚀 Fun fact: **I thrive on collaborative coding quests**
 </div>
 
 <h3 align="left">Connect with me:</h3>
