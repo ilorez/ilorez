@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="./myGif.gif"/>
 <div align="left">
     
-- 💻 Currently orchestrating pixels for **Awesome React Apps**
+- 💻 Currently orchestrating pixels for **C**
 
 - 📚 Learning the art of **Node.js and Git advanced with MERN stack**
 
