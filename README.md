@@ -19,4 +19,4 @@
   <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilorez&layout=compact&langs_count=20&card_width=550&theme=dark" />
 </a>
 
-:] _"+"_   -+- :] -v- (;']) -_-
+:] _"+"_   -+- :] -v- (;']) -_- ء°•°ء
